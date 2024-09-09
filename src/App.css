@@ -1,0 +1,14 @@
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg,skyblue,lightpink);
+}
+.draggable-editor{
+ 
+    border:1px solid grey;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 50vw;
+}
